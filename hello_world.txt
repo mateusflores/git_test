@@ -2,6 +2,6 @@ Comandos
 > git clone <link>	- Clonar um repositório
 > git push		- Mandar as atualizações para o github
 > git add .		- Marca quais arquivos modificados estão prontos para o commit
-> git commit "bla"	- Faz o commit e adiciona um comentário
+> git commit -m "bla"	- Faz o commit e adiciona um comentário
 > git status
 > git log		- Histórico de commits
